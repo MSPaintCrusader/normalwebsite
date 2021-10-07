@@ -3,7 +3,10 @@ body {
 }
 
 #project-container {
-  margin: 0 auto; /* centers project div */
-  width: 100%; /* adds space on either side */
-  max-width: 600px; /* keeps div from getting too wide */
+  margin: 0 auto;
+  width: 100%;
+}
+
+.clear {
+  clear: both;
 }
