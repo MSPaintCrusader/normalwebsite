@@ -5,6 +5,7 @@ body {
 #project-container {
   margin: 0 auto;
   width: 100%;
+  object-fit: cover;
 }
 
 iframe {
